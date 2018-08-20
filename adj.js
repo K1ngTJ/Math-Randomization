@@ -1,4 +1,4 @@
-var words = ["DUMB","IGNORANT" ,"CONCEITED","DISTURBING"];
+var words = ["SMART","IGNORANT" ,"CONCEITED","DISTURBING"];
 
 var ask = prompt("what is your Name?");
 
